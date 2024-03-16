@@ -11,7 +11,13 @@ An empty cell in the average column means that there were no tests taken on that
 An empty cell in the comment column means that no comments were made after the tests were taken for that day.
 
 ## Objective
-The objective of this project is analyze one's typing speed data. If someone is getting started to learn speed-typing, they may get interested to look at some stats.
-For eample:
+The objective of this project is analyze one's typing speed data. If someone is getting started to learn speed-typing, they may get interested to look at some stats. For eample: 
+1. Their averge of the average daily scores over a period of time. 
+2. Their maximum and minimum individual scores so far. 
+3. Their longest streak. 
+4. A visual representation of averge daily score against time. 
+5. A regression model that tries to fit a stratght line to the data. 
+6. The intercept and the slope of the model.
+
 
  
